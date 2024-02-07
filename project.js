@@ -6,7 +6,7 @@
             "part":"1명",
             "desc":"React.js를 사용한 자기소개 사이트입니다. PC 카카오톡을 모티브로 구현해봤습니다. 메세지로 온 사진파일을 클릭하면 작업한 포트폴리오 및 간단한 자기소개를 볼 수 있도록 구성했습니다. 그리고 이미지에서 화살표를 클릭해서 이동하는 슬라이더는 라이브러리 없이 순수 자바스크립트로 구현해봤습니다.",
             "stack":"React.js",
-            "img2":"./img/introduce-Me.gif",
+            "img2":"./img/introduce.gif",
             "link":"https://introduce-me-theta.vercel.app/, https://github.com/Jhyjj/Introduce-Me"
         },
         {
@@ -33,7 +33,7 @@
             "part":"3명",
             "desc":"PHP를 사용한 레시피 공유 사이트입니다. DB는 MySQL을 사용했습니다. 회원가입 후 특정 레시피를 찜하거나 후기를 작성할 수 있습니다. 검색을 통해 원하는 레시피를 검색할 수 있습니다.",
             "stack":"PHP, MySQL",
-            "img2":"./img/Recipe.gif",
+            "img2":"./img/recipe.gif",
             "link":"http://jhyjj.dothome.co.kr/, https://github.com/Jhyjj/Recipe"
         }
     ],
@@ -49,7 +49,7 @@
         },
         {
             "title":"e-CRF",
-            "img":"./img/ecrf1.PNG",
+            "img":"./img/ecrf1.png",
             "part":"1명",
             "desc":"Flutter를 사용해서 만들어진 웹앱입니다. 울산대병원과 협업시 사용할 전자증례기록 웹앱이며, 임상시험 데이터를 실시간으로 확인하고, 데이터 간 분석과 비교를 위한 목적으로 설계되었습니다.",
             "stack":"Flutter",
@@ -58,11 +58,11 @@
         },
         {
             "title":"자사 홈페이지/웹앱 유지보수",
-            "img":"./img/hnbgenomics.PNG",
+            "img":"./img/hnbgenomics.png",
             "part":"2명",
             "desc":"php로 작성된 자사 홈페이지 유지보수 및 React로 작성된 balanstate 웹앱 유지보수 담당했습니다.",
             "stack":"PHP, React",
-            "img2":"./img/hnbgenomics.PNG",
+            "img2":"./img/hnbgenomics.png",
             "link":"https://hnbgenomics.com/kor/, https://balanstate.hnbgenomics.com/"
         }
 
@@ -75,7 +75,7 @@
             "desc":"바닐라자바스크립트로 작성한 자기소개 페이지입니다. 간단한 경력사항과 포트폴리오 소개로 구성되어 있습니다.",
             "stack":"JavaScript",
             "img2":"./img/introduce2024.gif",
-            "link":""
+            "link":"https://introduce2024.vercel.app/, https://github.com/Jhyjj/Introduce2024"
         },
         {
             "title":"youpotify",
