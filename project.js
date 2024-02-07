@@ -75,7 +75,7 @@
             "desc":"바닐라자바스크립트로 작성한 자기소개 페이지입니다. 간단한 경력사항과 포트폴리오 소개로 구성되어 있습니다.",
             "stack":"JavaScript",
             "img2":"./img/introduce2024.gif",
-            "link":"https://introduce2024.vercel.app/, https://github.com/Jhyjj/Introduce2024"
+            "link":"https://portfolio2024-omega.vercel.app/, https://github.com/Jhyjj/Introduce2024"
         },
         {
             "title":"youpotify",
